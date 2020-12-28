@@ -6,22 +6,20 @@
   
   <div align="center">
 	
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-64-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  
+  Be sure to ⭐ this repo so you can keep up to date on any daily progress!
+
 
 </div>
-Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 
 ## Table of Contents
 
 * [About The Project](#about-the-project)
-* [Contribution Instructions](#contribution-instructions)
 * [HackerRank Solutions](#hackerrank)
 * [A cool & collective resource](#a-cool-and-collective-resource)
 * [Contributors](#contributors)
