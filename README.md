@@ -55,4 +55,6 @@ Some sample issues have been created for your convenience but feel free to add m
 # Communication Channel
  
 The link to the *whatsapp* group:
+[Whatsapp chat](https://chat.whatsapp.com/D9ZWZgiMWArJETHw9V6k3C)
+
 
