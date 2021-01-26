@@ -8,7 +8,7 @@ A collection of solutions for HackerRank problems solutions in Python, JAVA, and
  [![Watchers](https://img.shields.io/github/watchers/Ayush7614/Hackerank-Solutions?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
  ![Lines of code](https://img.shields.io/tokei/lines/github/Ayush7614/Hackerank-Solutions?style=for-the-badge)
  <br><br>
-![Hackerank-Solutions](https://socialify.git.ci/Ayush7614/Hackerank-Solutions/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+![Hackerank-Solutions](https://socialify.git.ci/Ayush7614/Hackerank-Solutions/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=White)
 
 
 
