@@ -4,9 +4,9 @@ A collection of solutions for HackerRank problems solutions in Python, JAVA, and
 . <br><br>
  [![Followers](https://img.shields.io/github/followers/Ayush7614?style=for-the-badge)](https://github.com/Ayush7614/followers)
  ![GitHub forks](https://img.shields.io/github/forks/Ayush7614/Hackerank-Solutions?style=for-the-badge)
- ![GitHub Repo stars](https://img.shields.io/github/stars/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
- [![Watchers](https://img.shields.io/github/watchers/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
- ![Lines of code](https://img.shields.io/tokei/lines/github/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/Ayush7614/Hackerank-Solutions?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/Ayush7614/Hackerank-Solutions?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
+ ![Lines of code](https://img.shields.io/tokei/lines/github/Ayush7614/Hackerank-Solutions?style=for-the-badge)
  <br><br>
 ![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/smv1999/CompetitiveProgrammingQuestionBank/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
