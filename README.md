@@ -1,6 +1,8 @@
-# 🎯💻Competitive Programming Question Bank🏆🏅
-This repository contains all the popular competitive programming questions and interview questions. The Programming languages used for demonstration is the C Language, C++ and Java. <br><br>
- [![Followers](https://img.shields.io/github/followers/smv1999?style=for-the-badge)](https://github.com/smv1999/followers)
+# 🎯💻Hackerank Programming Question Bank🏆🏅
+A collection of solutions for HackerRank problems solutions in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the hackerank solution problems across various platforms, along with the resources for learning them. Problems from Hackerearth will be included soon in the project.
+
+. <br><br>
+ [![Followers](https://img.shields.io/github/followers/smv1999?style=for-the-badge)](https://github.com/Ayush7614/followers)
  ![GitHub forks](https://img.shields.io/github/forks/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
  ![GitHub Repo stars](https://img.shields.io/github/stars/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
