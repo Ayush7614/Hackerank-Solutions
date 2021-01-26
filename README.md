@@ -3,7 +3,7 @@ A collection of solutions for HackerRank problems solutions in Python, JAVA, and
 
 . <br><br>
  [![Followers](https://img.shields.io/github/followers/Ayush7614?style=for-the-badge)](https://github.com/Ayush7614/followers)
- ![GitHub forks](https://img.shields.io/github/forks/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
+ ![GitHub forks](https://img.shields.io/github/forks/Ayush7614/Hackerank-Solutions?style=for-the-badge)
  ![GitHub Repo stars](https://img.shields.io/github/stars/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
  [![Watchers](https://img.shields.io/github/watchers/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
  ![Lines of code](https://img.shields.io/tokei/lines/github/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
