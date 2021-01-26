@@ -1,3 +1,15 @@
+# 🎯💻Competitive Programming Question Bank🏆🏅
+This repository contains all the popular competitive programming questions and interview questions. The Programming languages used for demonstration is the C Language, C++ and Java. <br><br>
+ [![Followers](https://img.shields.io/github/followers/smv1999?style=for-the-badge)](https://github.com/smv1999/followers)
+ ![GitHub forks](https://img.shields.io/github/forks/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
+ [![Watchers](https://img.shields.io/github/watchers/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)](https://github.com/smv1999/CompetitiveProgrammingQuestionBank/watchers)
+ ![Lines of code](https://img.shields.io/tokei/lines/github/smv1999/CompetitiveProgrammingQuestionBank?style=for-the-badge)
+ <br><br>
+![CompetitiveProgrammingQuestionBank](https://socialify.git.ci/smv1999/CompetitiveProgrammingQuestionBank/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
+
 <h1 align="center">
   <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png" alt="Hackerrank SOLUTIONS">
   <br>
